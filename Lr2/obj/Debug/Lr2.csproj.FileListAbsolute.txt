@@ -1,0 +1,10 @@
+D:\Games\ASOI\Lr2\Lr2\bin\Debug\Lr2.exe.config
+D:\Games\ASOI\Lr2\Lr2\bin\Debug\Lr2.exe
+D:\Games\ASOI\Lr2\Lr2\bin\Debug\Lr2.pdb
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.csproj.AssemblyReference.cache
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.Properties.Resources.resources
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.csproj.GenerateResource.cache
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.csproj.CoreCompileInputs.cache
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.exe
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.pdb
+D:\Games\ASOI\Lr2\Lr2\obj\Debug\Lr2.Form1.resources
